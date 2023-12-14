@@ -3,13 +3,13 @@
 <!--
 My name is Christopher and I specialize in Cybsecurity with a deep passion as a forever student/learner. You will never hear me refer to myself as an "expert". The journey is endless and I embrace the long roads this career path has provided me with and it's many challenges.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on improving Python, Bash and powershell scripting. My focus is specifically designed to use for cybersecurity engineering tasks like automation, data collection and log analysis while others are designed to help with penetration tests and to gain practice in virtual environments such as HTB, OffSec's PGs, local home labs, etc. Some may be experimental in nature to develop new ideas from.
-
 - 📫 How to reach me: 
 Email: [![Email](https://img.shields.io/badge/Email-YourEmail-red?style=flat-square&logo=gmail)](mailto:christopherkentleal@gmail.com)
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christopher-l-b52918179/)
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on improving Python, Bash and powershell scripting. My focus is specifically designed to use for cybersecurity engineering tasks like automation, data collection and log analysis while others are designed to help with penetration tests and to gain practice in virtual environments such as HTB, OffSec's PGs, local home labs, etc. Some may be experimental in nature to develop new ideas from.
 
 - ⚡ Fun fact: I love leather crafting and working out. Also, I'm a huge gamner nerd.
 
