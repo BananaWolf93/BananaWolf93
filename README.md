@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 My name is Christopher and I specialize in Cybsecurity with a deep passion as a forever student/learner. You will never hear me refer to myself as an "expert". The journey is endless and I embrace the long roads this career path has provided me with and it's many challenges.
 
 - 📫 How to reach me: 
@@ -103,4 +102,3 @@ Here are some ideas to get you started:
 - Gym rat
 - Learning all things Cybersecurity!
 
--->
