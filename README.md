@@ -8,7 +8,7 @@ LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?st
 
 - 🔭 I’m currently working on improving Python, Bash and powershell scripting. My focus is specifically designed to use for cybersecurity engineering tasks like automation, data collection and log analysis while others are designed to help with penetration tests and to gain practice in virtual environments such as HTB, OffSec's PGs, local home labs, etc. Some may be experimental in nature to develop new ideas from.
 
-- ⚡ Fun fact: I love leather crafting and working out. Also, I'm a huge gamner nerd.
+- ⚡ Fun fact: I love leather crafting and working out. Also, I'm a huge gamer nerd.
 
 # 🚀 Tech and Skills
 
